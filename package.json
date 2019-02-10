@@ -47,7 +47,7 @@
     },
     "dependencies": {
         "form-urlencoded": "^1.5.0",
-        "lodash": "^4.17.4",
+        "lodash": "^4.17.11",
         "metrics": "^0.1.11",
         "node-statsd-client": "^1.0.3",
         "request": "^2.81.0"
