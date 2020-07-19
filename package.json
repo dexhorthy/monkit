@@ -50,6 +50,6 @@
         "lodash": "^4.17.4",
         "metrics": "^0.1.11",
         "node-statsd-client": "^1.0.3",
-        "request": "^2.81.0"
+        "request": "^2.88.0"
     }
 }
